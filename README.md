@@ -4,7 +4,7 @@
 
 Introduce a brand or creative tool with screen collages, editorial transitions and a branded ending.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.6.4** · [@motiongit](https://motiongit.com/@motiongit) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.5-alpha.1** · [@motiongit](https://motiongit.com/@motiongit) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@motiongit/motiongit-promo-main)**
 https://motiongit.com/@motiongit/motiongit-promo-main
@@ -23,9 +23,9 @@ Download available; current terms are listed with the package.
 
 - Declared runtime profile: html-canvas/1.
 - Editable inputs are mapped through the template parameter schema and preset to its existing animation project.
-- The declared timeline has a fixed duration; new content fits its existing scene order and timing.
+- The declared duration policy follows the current content; the package plan determines final timing.
 
-Demo duration: **57s**. The documented output is 1920 × 1080, 60 fps. The public demo is 57 seconds. Use the actual package parameter bounds; extra materials do not automatically create extra scenes. Changing scene order, output duration or engine; these are not parameters of this fixed native arrangement. Declaring arbitrary copy length or every product topic suitable without actual layout and semantic review.
+Demo duration: **57s**. The documented output is 1920 × 1080, 60 fps. The public demo is 57 seconds. Use the actual package parameter bounds; extra materials do not automatically create extra scenes. Stretching, speeding up or partially cutting a native scene, changing the engine or switching to portrait. Declaring arbitrary copy length or every product topic suitable without actual layout and semantic review.
 
 ## Inputs and materials
 
@@ -35,7 +35,7 @@ Demo duration: **57s**. The documented output is 1920 × 1080, 60 fps. The publi
 - **Optional:** A licensed music track or your preference for music in this production.
 - **Optional:** The current voice recording or your narration preference for this production.
 
-Useful for: Fixed57s landscape product film using current copy, brand artwork, graph labels and supplied image/video carriers. Preserve source scene order, motion and independent SFX.
+Useful for: Landscape product film using current copy, brand artwork, graph labels and supplied image/video carriers. Default 57-second native arrangement; longer copy or narration is arranged from complete native scenes (repeat/reorder at original speed, holds only at reviewed settled points) up to 600 seconds. Scene motion and independent SFX are preserved.
 
 ## Runtime requirements
 

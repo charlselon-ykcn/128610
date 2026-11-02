@@ -5,20 +5,20 @@
   "owner": "motiongit",
   "slug": "motiongit-promo-main",
   "website": "https://motiongit.com/@motiongit/motiongit-promo-main",
-  "version": "2.6.4",
+  "version": "2.6.5-alpha.1",
   "technical": {
     "en": [
       "Declared runtime profile: html-canvas/1.",
       "Editable inputs are mapped through the template parameter schema and preset to its existing animation project.",
-      "The declared timeline has a fixed duration; new content fits its existing scene order and timing."
+      "The declared duration policy follows the current content; the package plan determines final timing."
     ],
     "zh": [
       "声明的运行配置：html-canvas/1。",
       "通过模板参数和预设，将本期文字、数据或素材映射到已有动画工程。",
-      "已声明时间轴为固定时长，本期内容按现有场景顺序和节奏适配。"
+      "已声明时长随本期内容适配，最终节奏由包内制作计划确定。"
     ]
   },
-  "checkedAt": "2026-10-20",
+  "checkedAt": "2026-11-02",
   "availability": "download-available",
   "title": {
     "en": "Screen Collage · Brand Story",
@@ -85,17 +85,17 @@
   ],
   "goodFor": {
     "en": [
-      "Fixed57s landscape product film using current copy, brand artwork, graph labels and supplied image/video carriers. Preserve source scene order, motion and independent SFX."
+      "Landscape product film using current copy, brand artwork, graph labels and supplied image/video carriers. Default 57-second native arrangement; longer copy or narration is arranged from complete native scenes (repeat/reorder at original speed, holds only at reviewed settled points) up to 600 seconds. Scene motion and independent SFX are preserved."
     ],
     "zh": [
-      "Fixed57s landscape product film using current copy, brand artwork, graph labels and supplied image/video carriers. Preserve source scene order, motion and independent SFX."
+      "Landscape product film using current copy, brand artwork, graph labels and supplied image/video carriers. Default 57-second native arrangement; longer copy or narration is arranged from complete native scenes (repeat/reorder at original speed, holds only at reviewed settled points) up to 600 seconds. Scene motion and independent SFX are preserved."
     ]
   },
   "boundaries": {
     "en": [
       "The documented output is 1920 × 1080, 60 fps. The public demo is 57 seconds.",
       "Use the actual package parameter bounds; extra materials do not automatically create extra scenes.",
-      "Changing scene order, output duration or engine; these are not parameters of this fixed native arrangement.",
+      "Stretching, speeding up or partially cutting a native scene, changing the engine or switching to portrait.",
       "Declaring arbitrary copy length or every product topic suitable without actual layout and semantic review."
     ],
     "zh": [

@@ -4,7 +4,7 @@
 
 用多屏拼贴、版面切换和品牌收尾展示产品与创作流程，适合品牌介绍和工具宣传。
 
-**16:9 · 1920 × 1080 · 60 fps · v2.6.4** · [@motiongit](https://motiongit.com/@motiongit) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.5-alpha.1** · [@motiongit](https://motiongit.com/@motiongit) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@motiongit/motiongit-promo-main)**
 https://motiongit.com/@motiongit/motiongit-promo-main
@@ -23,7 +23,7 @@ https://motiongit.com/@motiongit/motiongit-promo-main
 
 - 声明的运行配置：html-canvas/1。
 - 通过模板参数和预设，将本期文字、数据或素材映射到已有动画工程。
-- 已声明时间轴为固定时长，本期内容按现有场景顺序和节奏适配。
+- 已声明时长随本期内容适配，最终节奏由包内制作计划确定。
 
 样片时长: **57s**. 已声明输出为 1920 × 1080，60 fps；公开样片 57 秒。 按实际包的参数边界制作；增加素材不会自动增加场景。
 
@@ -35,7 +35,7 @@ https://motiongit.com/@motiongit/motiongit-promo-main
 - **可选:** 本期已授权配乐，或本期是否需要配乐的偏好。
 - **可选:** 本期配音文件，或是否需要配音的安排。
 
-适用内容: Fixed57s landscape product film using current copy, brand artwork, graph labels and supplied image/video carriers. Preserve source scene order, motion and independent SFX.
+适用内容: Landscape product film using current copy, brand artwork, graph labels and supplied image/video carriers. Default 57-second native arrangement; longer copy or narration is arranged from complete native scenes (repeat/reorder at original speed, holds only at reviewed settled points) up to 600 seconds. Scene motion and independent SFX are preserved.
 
 ## 运行环境
 
